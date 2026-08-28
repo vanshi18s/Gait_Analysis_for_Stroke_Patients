@@ -1,8 +1,8 @@
 # Post-Stroke Gait Analysis Based on Kinematics Data and Interpretability Using Explainable AI Techniques
 
-**Author:** Vanshi Sethi
-**Institution:** Indian Institute of Technology Guwahati, India (B.Sc. Honours Data Science and Artificial Intelligence) / NIT Silchar (Internship) 
-**Contact:** s.vanshi@op.iitg.ac.in
+#**Author:** Vanshi Sethi
+#**Institution:** Indian Institute of Technology Guwahati, India (B.Sc. Honours Data Science and Artificial Intelligence) / NIT Silchar (Internship) 
+#**Contact:** s.vanshi@op.iitg.ac.in
 
 ---
 
